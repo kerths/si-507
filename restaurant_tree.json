@@ -1,0 +1,681 @@
+{
+    "Fresno": {
+        "fresno": {
+            "info": {
+                "MedianIncome": 18417.0,
+                "Poverty": 26.915151515151514,
+                "Unemployment": 13.323232323232324
+            },
+            "cuisines": {
+                "Chinese": {
+                    "4.0": [
+                        "Little Peking Restaurant",
+                        "Chong's Chinese Bar'b'que & Salads",
+                        "Ding Ho Kitchen",
+                        "LA Kitchen",
+                        "Noodle Q Home Style Fresh Noodles",
+                        "Sing Tao Chinese Restaurant",
+                        "Win Wah Chinese",
+                        "Flower City Restaurant",
+                        "Jimy Wen's"
+                    ],
+                    "4.5": [
+                        "China Station Food To Go"
+                    ],
+                    "3.5": [
+                        "P.F. Chang's"
+                    ]
+                },
+                "Szechuan": {
+                    "4.0": [
+                        "Spicy J's"
+                    ]
+                },
+                "Asian Fusion": {
+                    "3.5": [
+                        "Little Fat Dumpling"
+                    ]
+                },
+                "Breakfast & Brunch": {
+                    "5.0": [
+                        "Flight Line Caf\u00e9"
+                    ]
+                },
+                "Dim Sum": {
+                    "3.5": [
+                        "New City Chinese Cuisine"
+                    ]
+                },
+                "Mexican": {
+                    "4.0": [
+                        "Pico De Gallo Mexican Food",
+                        "Castillo's Mexican Food",
+                        "Tabachines Cocina",
+                        "El Patio Restaurant",
+                        "Don Pepe Taqueria",
+                        "Papi's Mex Grill"
+                    ],
+                    "4.5": [
+                        "Cocina Village",
+                        "Don Tacha Taqueria",
+                        "El Toro Tortilleria",
+                        "Taqueria Don Pepe"
+                    ]
+                },
+                "Vietnamese": {
+                    "4.0": [
+                        "I Love Pho, Menudo & Tacos",
+                        "Pho Lao Vieng"
+                    ]
+                },
+                "Seafood": {
+                    "4.0": [
+                        "Wahoo's Fish Tacos",
+                        "Lotus Kitchen"
+                    ]
+                },
+                "Pizza": {
+                    "4.5": [
+                        "Angela's Italian Restaurant",
+                        "The Annex Kitchen"
+                    ]
+                },
+                "Italian": {
+                    "4.0": [
+                        "Mike's Pizzeria",
+                        "Parma",
+                        "Five Restaurant",
+                        "Annesso Pizzeria",
+                        "Bella Pasta Trattoria Italiana"
+                    ],
+                    "4.5": [
+                        "Oggi Cosi Si Mangia"
+                    ],
+                    "3.5": [
+                        "Ovidios Italian Restaurant",
+                        "Campagnia"
+                    ]
+                },
+                "Cocktail Bars": {
+                    "4.0": [
+                        "Cosmopolitan Tavern"
+                    ]
+                },
+                "Delis": {
+                    "4.5": [
+                        "Piemonte's Italian Delicatessen"
+                    ]
+                },
+                "Korean": {
+                    "4.0": [
+                        "Bulldoc Korean Fusion",
+                        "Korea Mart",
+                        "Rock & Noodles"
+                    ],
+                    "3.0": [
+                        "Shila Korean BBQ",
+                        "Kaya Restaurant"
+                    ]
+                },
+                "Barbeque": {
+                    "4.5": [
+                        "Asiana Food"
+                    ]
+                },
+                "Japanese": {
+                    "4.5": [
+                        "Kenji's Teriyaki Grill",
+                        "Ginza Gourmet Teriyaki House",
+                        "Hino Oishi",
+                        "Sake Japanese Cuisine"
+                    ],
+                    "4.0": [
+                        "Tamari Robatayaki & Whisky Bar",
+                        "Pete's Teriyaki House",
+                        "Sushi Day"
+                    ]
+                },
+                "Sushi Bars": {
+                    "4.0": [
+                        "Namikaze"
+                    ],
+                    "4.5": [
+                        "Shobu Japanese Cuisine",
+                        "Umi Sushi - Fresno"
+                    ]
+                },
+                "Teppanyaki": {
+                    "4.5": [
+                        "Sushiyaki"
+                    ]
+                },
+                "Ramen": {
+                    "4.5": [
+                        "Ramen Hayashi Fresno",
+                        "Kurotaka Ramen",
+                        "Tsuchiya Ramen"
+                    ],
+                    "4.0": [
+                        "Homi-Ya Ramen Noodle House",
+                        "Brothers Ramen and Japanese Eatery"
+                    ]
+                },
+                "Bubble Tea": {
+                    "4.5": [
+                        "Tower Tea"
+                    ]
+                },
+                "New American": {
+                    "4.5": [
+                        "The Lime Lite",
+                        "Heirloom",
+                        "Saizon"
+                    ]
+                },
+                "Tapas/Small Plates": {
+                    "4.5": [
+                        "Mochuelo"
+                    ]
+                },
+                "Latin American": {
+                    "4.5": [
+                        "Se\u00f1or Aj\u00ed Peruvian Kitchen",
+                        "Sabor Cocina Latina & Bar"
+                    ]
+                },
+                "Mediterranean": {
+                    "4.5": [
+                        "Phoenician Garden Mediterranean Bar and Grill"
+                    ]
+                },
+                "Hot Dogs": {
+                    "4.5": [
+                        "Rocket Dog Gourmet Brats & Brew"
+                    ]
+                },
+                "Food Trucks": {
+                    "5.0": [
+                        "La Empanada Buen Provecho"
+                    ]
+                },
+                "Laotian": {
+                    "4.0": [
+                        "SabaiDee Thai Lao Cuisine",
+                        "Mamas Asian Noodle House"
+                    ]
+                },
+                "Thai": {
+                    "4.0": [
+                        "Sweet Mango Mart & Deli",
+                        "Gem of Thailand",
+                        "BuaTong Thai Vegan",
+                        "Noodle Express",
+                        "B & K Asian Kitchen",
+                        "Lao Cafe 2"
+                    ],
+                    "3.5": [
+                        "Thai Phuket Restaurant"
+                    ]
+                }
+            }
+        }
+    },
+    "Alameda": {
+        "fresno": {
+            "info": {
+                "MedianIncome": 27171.0,
+                "Poverty": 12.995833333333334,
+                "Unemployment": 8.465277777777779
+            },
+            "cuisines": {
+                "Chinese": {
+                    "4.0": [
+                        "Little Peking Restaurant",
+                        "Chong's Chinese Bar'b'que & Salads",
+                        "Ding Ho Kitchen",
+                        "LA Kitchen",
+                        "Noodle Q Home Style Fresh Noodles",
+                        "Sing Tao Chinese Restaurant",
+                        "Win Wah Chinese",
+                        "Flower City Restaurant",
+                        "Jimy Wen's"
+                    ],
+                    "4.5": [
+                        "China Station Food To Go"
+                    ],
+                    "3.5": [
+                        "P.F. Chang's"
+                    ]
+                },
+                "Szechuan": {
+                    "4.0": [
+                        "Spicy J's"
+                    ]
+                },
+                "Asian Fusion": {
+                    "3.5": [
+                        "Little Fat Dumpling"
+                    ]
+                },
+                "Breakfast & Brunch": {
+                    "5.0": [
+                        "Flight Line Caf\u00e9"
+                    ]
+                },
+                "Dim Sum": {
+                    "3.5": [
+                        "New City Chinese Cuisine"
+                    ]
+                },
+                "Mexican": {
+                    "4.0": [
+                        "Pico De Gallo Mexican Food",
+                        "Castillo's Mexican Food",
+                        "Tabachines Cocina",
+                        "El Patio Restaurant",
+                        "Don Pepe Taqueria",
+                        "Papi's Mex Grill"
+                    ],
+                    "4.5": [
+                        "Cocina Village",
+                        "Don Tacha Taqueria",
+                        "El Toro Tortilleria",
+                        "Taqueria Don Pepe"
+                    ]
+                },
+                "Vietnamese": {
+                    "4.0": [
+                        "I Love Pho, Menudo & Tacos",
+                        "Pho Lao Vieng"
+                    ]
+                },
+                "Seafood": {
+                    "4.0": [
+                        "Wahoo's Fish Tacos",
+                        "Lotus Kitchen"
+                    ]
+                },
+                "Pizza": {
+                    "4.5": [
+                        "Angela's Italian Restaurant",
+                        "The Annex Kitchen"
+                    ]
+                },
+                "Italian": {
+                    "4.0": [
+                        "Mike's Pizzeria",
+                        "Parma",
+                        "Five Restaurant",
+                        "Annesso Pizzeria",
+                        "Bella Pasta Trattoria Italiana"
+                    ],
+                    "4.5": [
+                        "Oggi Cosi Si Mangia"
+                    ],
+                    "3.5": [
+                        "Ovidios Italian Restaurant",
+                        "Campagnia"
+                    ]
+                },
+                "Cocktail Bars": {
+                    "4.0": [
+                        "Cosmopolitan Tavern"
+                    ]
+                },
+                "Delis": {
+                    "4.5": [
+                        "Piemonte's Italian Delicatessen"
+                    ]
+                },
+                "Korean": {
+                    "4.0": [
+                        "Bulldoc Korean Fusion",
+                        "Korea Mart",
+                        "Rock & Noodles"
+                    ],
+                    "3.0": [
+                        "Shila Korean BBQ",
+                        "Kaya Restaurant"
+                    ]
+                },
+                "Barbeque": {
+                    "4.5": [
+                        "Asiana Food"
+                    ]
+                },
+                "Japanese": {
+                    "4.5": [
+                        "Kenji's Teriyaki Grill",
+                        "Ginza Gourmet Teriyaki House",
+                        "Hino Oishi",
+                        "Sake Japanese Cuisine"
+                    ],
+                    "4.0": [
+                        "Tamari Robatayaki & Whisky Bar",
+                        "Pete's Teriyaki House",
+                        "Sushi Day"
+                    ]
+                },
+                "Sushi Bars": {
+                    "4.0": [
+                        "Namikaze"
+                    ],
+                    "4.5": [
+                        "Shobu Japanese Cuisine",
+                        "Umi Sushi - Fresno"
+                    ]
+                },
+                "Teppanyaki": {
+                    "4.5": [
+                        "Sushiyaki"
+                    ]
+                },
+                "Ramen": {
+                    "4.5": [
+                        "Ramen Hayashi Fresno",
+                        "Kurotaka Ramen",
+                        "Tsuchiya Ramen"
+                    ],
+                    "4.0": [
+                        "Homi-Ya Ramen Noodle House",
+                        "Brothers Ramen and Japanese Eatery"
+                    ]
+                },
+                "Bubble Tea": {
+                    "4.5": [
+                        "Tower Tea"
+                    ]
+                },
+                "New American": {
+                    "4.5": [
+                        "The Lime Lite",
+                        "Heirloom",
+                        "Saizon"
+                    ]
+                },
+                "Tapas/Small Plates": {
+                    "4.5": [
+                        "Mochuelo"
+                    ]
+                },
+                "Latin American": {
+                    "4.5": [
+                        "Se\u00f1or Aj\u00ed Peruvian Kitchen",
+                        "Sabor Cocina Latina & Bar"
+                    ]
+                },
+                "Mediterranean": {
+                    "4.5": [
+                        "Phoenician Garden Mediterranean Bar and Grill"
+                    ]
+                },
+                "Hot Dogs": {
+                    "4.5": [
+                        "Rocket Dog Gourmet Brats & Brew"
+                    ]
+                },
+                "Food Trucks": {
+                    "5.0": [
+                        "La Empanada Buen Provecho"
+                    ]
+                },
+                "Laotian": {
+                    "4.0": [
+                        "SabaiDee Thai Lao Cuisine",
+                        "Mamas Asian Noodle House"
+                    ]
+                },
+                "Thai": {
+                    "4.0": [
+                        "Sweet Mango Mart & Deli",
+                        "Gem of Thailand",
+                        "BuaTong Thai Vegan",
+                        "Noodle Express",
+                        "B & K Asian Kitchen",
+                        "Lao Cafe 2"
+                    ],
+                    "3.5": [
+                        "Thai Phuket Restaurant"
+                    ]
+                }
+            }
+        },
+        "clovis": {
+            "info": {
+                "MedianIncome": 46353.0,
+                "Poverty": 12.995833333333334,
+                "Unemployment": 8.465277777777779
+            },
+            "cuisines": {
+                "Thai": {
+                    "4.0": [
+                        "Thai Country Restaurant",
+                        "Thai Gem",
+                        "Pad Thai Restaurant"
+                    ],
+                    "4.5": [
+                        "Thai Season"
+                    ]
+                },
+                "Chinese": {
+                    "4.0": [
+                        "Tsing Tao Chinese Restaurant",
+                        "China Chef"
+                    ]
+                },
+                "Dim Sum": {
+                    "4.0": [
+                        "Four Seasons Chinese Restaurant"
+                    ]
+                },
+                "Mexican": {
+                    "4.5": [
+                        "Carrillo's Mexican Food"
+                    ],
+                    "4.0": [
+                        "Salsa's Cantina",
+                        "Rosa Linda's",
+                        "Hacienda Tequila"
+                    ]
+                },
+                "Italian": {
+                    "4.0": [
+                        "Andiamo Ristorante Italiano"
+                    ],
+                    "4.5": [
+                        "Russo's New York Pizzeria"
+                    ]
+                },
+                "Pizza": {
+                    "4.0": [
+                        "Michelangelo's Pizzeria"
+                    ]
+                },
+                "Barbeque": {
+                    "3.0": [
+                        "Shila Korean BBQ"
+                    ]
+                },
+                "Ramen": {
+                    "4.5": [
+                        "Ramen Hayashi"
+                    ]
+                },
+                "Sushi Bars": {
+                    "4.0": [
+                        "Sashimi Express"
+                    ]
+                },
+                "Steakhouses": {
+                    "4.5": [
+                        "13 Prime Steak"
+                    ]
+                },
+                "New American": {
+                    "4.0": [
+                        "Colton's Social House"
+                    ]
+                }
+            }
+        },
+        "fowler": {
+            "info": {
+                "MedianIncome": 41889.0,
+                "Poverty": 12.995833333333334,
+                "Unemployment": 8.465277777777779
+            },
+            "cuisines": {
+                "Chinese": {
+                    "4.5": [
+                        "China Kitchen"
+                    ]
+                }
+            }
+        },
+        "oakhurst": {
+            "info": {
+                "MedianIncome": 300000.0,
+                "Poverty": 12.995833333333334,
+                "Unemployment": 8.465277777777779
+            },
+            "cuisines": {
+                "Chinese": {
+                    "4.0": [
+                        "China Delight"
+                    ]
+                },
+                "Mexican": {
+                    "4.0": [
+                        "Plazuelas Mexican Restaurant & Taqueria"
+                    ]
+                },
+                "Barbeque": {
+                    "4.5": [
+                        "Smokehouse 41"
+                    ]
+                },
+                "French": {
+                    "4.5": [
+                        "The Elderberry House"
+                    ]
+                }
+            }
+        },
+        "madera": {
+            "info": {
+                "MedianIncome": 55928.0,
+                "Poverty": 12.995833333333334,
+                "Unemployment": 8.465277777777779
+            },
+            "cuisines": {
+                "Seafood": {
+                    "4.5": [
+                        "Compa Franks"
+                    ]
+                },
+                "Italian": {
+                    "4.5": [
+                        "California Grill",
+                        "Ristorante Gabriela"
+                    ]
+                }
+            }
+        },
+        "mammoth lakes": {
+            "info": {
+                "MedianIncome": 300000.0,
+                "Poverty": 12.995833333333334,
+                "Unemployment": 8.465277777777779
+            },
+            "cuisines": {
+                "Mexican": {
+                    "4.0": [
+                        "Roberto's Cafe"
+                    ]
+                },
+                "Pizza": {
+                    "4.0": [
+                        "Giovanni's",
+                        "John's Pizza Works"
+                    ]
+                },
+                "Sushi Bars": {
+                    "4.5": [
+                        "GOJIRA Ramen & Sushi"
+                    ]
+                },
+                "Brasseries": {
+                    "4.5": [
+                        "Mammoth Rock Brasserie"
+                    ]
+                },
+                "New American": {
+                    "4.5": [
+                        "Restaurant At Convict Lake"
+                    ]
+                },
+                "Modern European": {
+                    "5.0": [
+                        "SKADI"
+                    ]
+                },
+                "Steakhouses": {
+                    "4.5": [
+                        "The Mogul Restaurant"
+                    ]
+                },
+                "American": {
+                    "4.0": [
+                        "The Lakefront Restaurant"
+                    ]
+                },
+                "Cuban": {
+                    "4.5": [
+                        "Dos Alas CubaRican Caf\u00e9 & Lounge"
+                    ]
+                },
+                "Noodles": {
+                    "4.5": [
+                        "Noodle-Ly"
+                    ]
+                }
+            }
+        },
+        "tollhouse": {
+            "info": {
+                "MedianIncome": 95137.0,
+                "Poverty": 12.995833333333334,
+                "Unemployment": 8.465277777777779
+            },
+            "cuisines": {
+                "Burgers": {
+                    "4.5": [
+                        "Tollhouse Market & Grill"
+                    ]
+                }
+            }
+        }
+    },
+    "Madera": {
+        "madera": {
+            "info": {
+                "MedianIncome": 40326.0,
+                "Poverty": 23.278260869565216,
+                "Unemployment": 8.365217391304348
+            },
+            "cuisines": {
+                "Seafood": {
+                    "4.5": [
+                        "Compa Franks"
+                    ]
+                },
+                "Italian": {
+                    "4.5": [
+                        "California Grill",
+                        "Ristorante Gabriela"
+                    ]
+                }
+            }
+        }
+    }
+}
